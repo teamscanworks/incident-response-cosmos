@@ -40,10 +40,10 @@ This document offers recommendations and guidance for core teams to help them de
  
  #### Internal contacts
 
-| Name    | Phones       | signal    | telegram  | other     |
-|---------|--------------|-----------|-----------|-----------|
-| Alice   | xxx-xxx-xxxx | something | something | something |
-| Bob     | yyy-yyy-yyyy | something | something | something |
+| Name    |    Function        | Phones       | signal    | telegram  | other     |
+|---------|--------------------|--------------|-----------|-----------|-----------|
+| Alice   |   Lead Core Dev    | xxx-xxx-xxxx | something | something | something |
+| Bob     |   Facilitator      | yyy-yyy-yyyy | something | something | something |
 
 
 #### External contacts
