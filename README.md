@@ -1,8 +1,11 @@
 # Incident Response for Cosmos networks
 
-> **Confidential.** Do not share your incident response plan with anyone outside of your circle of trust
+_**Disclaimer:** This guidance is highly opinionated and currently a best-effort approach to help Cosmos teams with their incident response processes. The current document is expected to be modified and improved in the future with the help and feedback of other Cosmos teams and community members_
+
 
 ## Introduction
+
+> **Confidential.** Do not share your incident response plan with anyone outside of your circle of trust
 
 This document offers recommendations and guidance for core teams to help them deal with security incidents and control their damage.
 
