@@ -137,4 +137,4 @@ This document offers recommendations and guidance for core teams to help them de
 - [Incident Response Recommendations](https://github.com/crytic/building-secure-contracts/blob/master/development-guidelines/incident_response.md)
 - [Startup Boilerplate Incident Response Plan](https://github.com/magoo/Incident-Response-Plan)
 - [Yield Post Mortem](https://medium.com/yield-protocol/post-mortem-of-incident-on-august-5th-2022-7bb70dbb9ada)
-- [Juno Incident Response)(https://github.com/CosmosContracts/incident-response)
+- [Juno Incident Response](https://github.com/CosmosContracts/incident-response)
