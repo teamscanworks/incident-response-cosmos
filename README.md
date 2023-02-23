@@ -20,21 +20,30 @@ This document offers recommendations and guidance for core teams to help them de
 
 > It's recommended to define substitutes in case the primary team members are not available at the moment of the incident. Having team member substitutes spread on different timezones increases the availabily guarantees. 
 
-- Lead Core Dev
-  - TODO
-- Secondary Core Dev
-  - TODO
-- Web UI Lead
+- **Lead Core Dev**
+  - Leads the vulnerability identification and evaluation process
+  - Leads the creation and decision process for emergency actions e.g. patches
+  - Leads the planning and creation of long-term mitigations
+- **Secondary Core Dev**
+  - Carefully reviews and shadows any action and decision performed by the lead core dev
+- **Web UI Lead**
   - Update and disable website/app
-- Facilitator
-	- Multi-sig herder if applicable
-- Ops
-	- Communications (internal and external)
-	- War room set up
-	- Record minutes and timeline
-- External
-	- Validators
-	- Auditors
+  - Creates and deploys UI banner alerts if applicable
+- **Facilitator**
+  - Coordinates the overall incident reponse process
+  - Facilitates uutreach to internal and external stakeholders
+  - Coordinates emergency patches if applicable
+  - Coordinates emergency governance proposals if applicable	
+  - Multi-sig herder if applicable
+- **Ops**
+  - War room set up
+  - Record minutes and timeline
+  - Assists the Facilitator in any required operational task
+  - Leads community communications
+  - Draft post-mortem
+- **External**
+  - Validators
+  - Auditors
   
  ### Contact details record
  
