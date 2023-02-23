@@ -7,14 +7,14 @@ _**Disclaimer:** This guidance is highly opinionated and currently a best-effort
 
 > **Confidential.** Do not share your incident response plan with anyone outside of your circle of trust
 
-This document offers recommendations and guidance for core teams to help them deal with security incidents and control their damage.
+This document offers recommendations and guidance for core teams to help them deal with major security incidents and control their damage.
 
 ### Definitions
 
-- **Incident response plan (IR):** TODO
-- **Playbook:** TODO
-- **War room:** TODO
-- **Circle of trust:** TODO
+- **Incident response plan (IR):** A combination of processes, documents and playbooks that standardize how a team reacts and responds to security incidents in the most effective way.
+- **Playbook:** Incident response manuals that help teams address specific situations e.g. an on-chain security incident or a social media account take over.
+- **War room:** A meeting point (either virtual or in-person) where incident responders and other stakeholders within the circle of trust coordinate and work through a major security incident affecting an organization.
+- **Circle of trust:** The set of trusted stakeholders, both internal team members and trusted external collaborators, that can access a team's IR plan and potentially join a war room when a major incident occurs.
 
 ### Roles
 
